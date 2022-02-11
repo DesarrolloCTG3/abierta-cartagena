@@ -1,0 +1,44 @@
+#triangulo{
+   width: 0;
+height: 0;
+border-top: 140px solid #ffc936;
+border-right: 640px solid transparent;
+position: absolute;
+z-index: 1;
+}
+
+
+#triangulo2{
+      
+     width: 0;
+height: 0;
+border-top: 160px solid #ffc936b9;
+border-right: 690px solid transparent;
+position: absolute;
+ 
+z-index: 0;
+  
+}
+
+#triangulo3{
+      
+  width: 0;
+height: 0;
+border-top: 140px solid #ffc936;
+border-left: 640px solid transparent;
+position: absolute;
+left:700px;
+z-index: 1;
+  
+}
+
+#triangulo4{
+      
+      width: 0;
+height: 0;
+border-top: 170px solid #ffc936b9;
+border-left: 640px solid transparent;
+position: absolute;
+ left:700px;
+z-index: 0;
+}

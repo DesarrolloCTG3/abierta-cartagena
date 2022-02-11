@@ -1,0 +1,67 @@
+.datos_node{
+  
+padding-top: 5%;
+height:250px;
+
+
+
+
+}
+
+a{
+
+color: black;
+
+}
+
+
+
+
+.datos_node  div:hover{
+
+background-color: #058f38; 
+color: white;
+
+
+}
+
+
+
+
+
+.datos_node div svg{ /* Se asigna un tamaño correco a las etiquetas svg */
+      width: 40px;
+      height: 40px;
+      float: left;
+      padding-bottom:5px;
+
+      
+    }
+        
+    .datos_node div{  /* Se define el color de fondo, boredes y display*/
+        
+      margin-left: 2%;
+      margin-bottom: 2%;
+      background-color:#e5e5e5;
+      border-radius: 10px;
+      width: 300px;
+      height: 25%;
+      padding-top: 1%;
+      padding-bottom: 1%;
+      padding-right: 3%;
+      float: left;
+  
+  }
+
+
+  .datos_node .descripcion{
+      font-family: Montserrat,sans-serif;
+      position: relative;
+      width: 90%;
+      
+      margin-left:20% ;
+      font-size: 13px;
+      text-align: left;
+      
+
+  }

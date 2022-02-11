@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+ 
+html,body{
+  color:white;
+  font-family:'Opens Sans',helvetica;  
+  height:100%;
+  width:100%;
+  margin: 0px;
+}
+ 
+.portada{
+   background: url(/sites/default/files/inline-images/banner%20participacion_Mesa%20de%20trabajo%201_1.png) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   height: 100%;
+   width: 100% ;
+   text-align: center;
+ 
+}
+
+div#page-title {
+    background: url(/sites/default/files/inline-images/banner%20participacion_Mesa%20de%20trabajo%201_1.png) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   height: 100%;
+   width: 100% ;
+}
+
+.region.region-page-title {
+    min-height: 187px;
+    margin: 2px -6px 13px -4px;
+    padding: 22px;
+}
+
+.text{
+  margin: 30px 0px 30px 0px;	
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
+  display: inline-block;
+}

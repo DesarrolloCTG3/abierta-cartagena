@@ -1,0 +1,56 @@
+.top-nav {
+    background: #CD3934;
+    height:40px;
+}
+
+#footer {
+    background: #CD3934;
+    color:white;
+    text-align:initial;
+}
+
+
+#footer-logo{
+  
+    float: left;
+    text-align: center;
+    padding: 0 2% 0 5%;
+    border-right: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+#footer-informacion{
+      float: left;
+    width: 28%;
+    height: 136px;
+    padding: 0 1% 0 1%;
+     border-right: 2px;
+    border-style: solid;
+    border-color: white;
+  
+}
+
+#footer-contacto{
+  
+    float: left;
+  width: 34%;
+    padding: 0 1% 0 1%;
+}
+
+#footer p{
+  
+  font-size:20px;
+  font-weight: bold;
+}
+
+#redes-sociales {
+  margin-left: 7px;
+}
+
+#redes-sociales img {
+    width: 30px;
+    margin-left: 59px;
+    margin-top: 8px;
+}
+
